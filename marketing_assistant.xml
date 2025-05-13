@@ -28,17 +28,29 @@
             <market_size></market_size>
             <growth_trends></growth_trends>-->
             <competitor_analysis>
-                <competitor name="">
+                <!--<competitor name="">
                     <strengths></strengths>
                     <weaknesses></weaknesses>
                     <differentiators></differentiators>
-                </competitor>
+                </competitor>-->
+                 <competitor_analysis url="GPT - Competitor analisys.pdf"></competitor_analysis>
                 <!-- Additional competitors as needed -->
             </competitor_analysis>
         </market_analysis>
         <brand_guidelines>
             <voice>Authoritative yet accessible, balancing professional expertise with conversational approachability</voice>
             <tone>Confident, data-driven, solutions-oriented, technically precise without excessive jargon</tone>
+            <style>Clear, concise, and engaging language with a focus on practical applications of data</style>
+            <audience>Data-minded professionals across various industries, including marketing, finance, cybersecurity, and academia</audience>
+            <writing_style>
+                - Use active voice, short sentences, and bullet points for clarity. 
+                - Avoid jargon unless explained. 
+                - Don't repeat yourself. 
+                - Don't talk about Dataprovider too much. 
+                - Let the data do the talking. 
+                - Don't use metaphors too much.
+                - Avoid sales talk and focus on providing value.
+            </writing_style>
             <terminology>
                 <preferred_terms>
                     - "Web data intelligence"
