@@ -24,9 +24,9 @@
             </target_audience>
         </about>
         <market_analysis>
-            <!-- Market positioning -->
+            <!-- Market positioning 
             <market_size></market_size>
-            <growth_trends></growth_trends>
+            <growth_trends></growth_trends>-->
             <competitor_analysis>
                 <competitor name="">
                     <strengths></strengths>
@@ -69,6 +69,13 @@
                 <logos></logos>
                 <approved_images></approved_images>
                 <graphs></graphs>
+                <brand-colors>
+                    <primary>#2d4bff</primary>
+                    <secondary>#ffd200</secondary>
+                    <tertiary>#2d145f</tertiary>
+                    <quaternary>#f7f7f7</quaternary>
+                </brand-colors>
+                <!-- Additional assets -->
             </assets>
         </resources>
     </company_profile>
