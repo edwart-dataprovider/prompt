@@ -113,7 +113,7 @@
                         <length>150-200 words</length>
                     </section>
                     <section name="body">
-                        <description>Main points with subheadings, examples, data</description>
+                        <description>Main points with subheadings, data</description>
                         <length>800-1200 words</length>
                     </section>
                     <section name="conclusion">
@@ -171,7 +171,7 @@
                 - Clearly indicate when making general observations that aren't directly derived from DataProvider's data
                 - Request additional data if industry-specific analysis is desired
             </data_verification>
-            <examples>Include at least 2 real-world examples per piece</examples>
+            <!--<examples>Include at least 2 real-world examples per piece</examples>-->
             <versions>Create 2 distinct versions with different approaches</versions>
             <proofread>Conduct thorough proofreading with attention to grammar, clarity, and flow</proofread>
         </do>
