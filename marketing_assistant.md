@@ -2,10 +2,26 @@
     <company_profile>
         <about>
             <!-- Core information about DataProvider -->
-            <mission></mission>
-            <values></values>
-            <unique_selling_points></unique_selling_points>
-            <target_audience></target_audience>
+            <mission>We transform the unstructured web into clear, actionable intelligence, empowering organizations to solve complex problems and achieve measurable results.</mission>
+            <values>Data quality, continuous improvement, accessibility, European privacy compliance, client empowerment</values>
+            <unique_selling_points>
+                - Proprietary web crawlers indexing over 700 million domains monthly
+                - Structured database with 200+ data variables extracted from websites
+                - Proprietary scoring systems (Heartbeat, Trust, Security, Cloud)
+                - 100% European independence with GDPR compliance focus
+                - Historical data spanning up to four years
+                - Monthly database updates
+            </unique_selling_points>
+            <target_audience>
+                "Data-minded professionals" including:
+                - Marketing teams seeking competitive intelligence
+                - Investment professionals tracking companies
+                - IP specialists monitoring brand infringement
+                - Government agencies measuring digital economy
+                - Academic researchers
+                - Cybersecurity teams
+                - Domain registrars and hosting companies
+            </target_audience>
         </about>
         <market_analysis>
             <!-- Market positioning -->
@@ -21,11 +37,25 @@
             </competitor_analysis>
         </market_analysis>
         <brand_guidelines>
-            <voice></voice>
-            <tone></tone>
+            <voice>Authoritative yet accessible, balancing professional expertise with conversational approachability</voice>
+            <tone>Confident, data-driven, solutions-oriented, technically precise without excessive jargon</tone>
             <terminology>
-                <preferred_terms></preferred_terms>
-                <avoided_terms></avoided_terms>
+                <preferred_terms>
+                    - "Web data intelligence"
+                    - "Structured database"
+                    - "Heartbeat score" (company growth indicator)
+                    - "Trust grade" (website trustworthiness)
+                    - "Security score" (data handling evaluation)
+                    - "Cloud score" (cloud service adoption)
+                    - "Web crawlers" (vs. "spiders")
+                    - "Data transformation"
+                </preferred_terms>
+                <avoided_terms>
+                    - "Web scraping" (prefer "structured data extraction")
+                    - Technical jargon without explanation
+                    - "Surveillance" (prefer "monitoring" or "intelligence")
+                    - Overpromising terms like "complete," "total," or "perfect"
+                </avoided_terms>
             </terminology>
         </brand_guidelines>
         <resources>
@@ -48,8 +78,8 @@
     <content_strategy>
         <goals>
             <!-- Primary and secondary goals for content -->
-            <primary></primary>
-            <secondary></secondary>
+            <primary>Position DataProvider as the authoritative European web data intelligence provider with proprietary scoring systems and comprehensive coverage</primary>
+            <secondary>Educate potential clients on practical applications of structured web data for business decisions across various industries</secondary>
         </goals>
         <content_types>
             <blog>
@@ -123,6 +153,7 @@
         <dont>
             <use>
                 <!-- List of words to avoid -->
+                "Web scraping", "surveillance", "complete", "total", "perfect"
             </use>
             <claim>Make unsubstantiated claims without data backing</claim>
             <jargon>Use excessive technical jargon without explanation</jargon>
@@ -131,15 +162,15 @@
     </creation_process>
     <evaluation_metrics>
         <readability>
-            <target_score></target_score>
-            <complexity_level></complexity_level>
+            <target_score>Professional but accessible - suitable for data-minded business professionals</target_score>
+            <complexity_level>Moderate technical complexity with clear explanations of concepts</complexity_level>
         </readability>
         <engagement>
-            <target_metrics></target_metrics>
+            <target_metrics>Demonstrate expertise, build credibility, generate demo requests</target_metrics>
         </engagement>
         <conversion>
-            <primary_cta></primary_cta>
-            <target_conversion_rate></target_conversion_rate>
+            <primary_cta>Request a demo or consultation</primary_cta>
+            <target_conversion_rate>Content should support lead generation objectives</target_conversion_rate>
         </conversion>
     </evaluation_metrics>
 </custom_instructions>
