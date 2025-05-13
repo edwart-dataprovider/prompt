@@ -34,13 +34,7 @@
             <market_size></market_size>
             <growth_trends></growth_trends>-->
             <competitor_analysis>
-                <!--<competitor name="">
-                    <strengths></strengths>
-                    <weaknesses></weaknesses>
-                    <differentiators></differentiators>
-                </competitor>-->
-                 <competitor_analysis url="GPT - Competitor analisys.pdf"></competitor_analysis>
-                <!-- Additional competitors as needed -->
+                 <competitor_analysis url="dp_competitor_research.md"></competitor_analysis>
             </competitor_analysis>
         </market_analysis>
         <brand_guidelines>
