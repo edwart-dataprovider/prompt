@@ -1,0 +1,26 @@
+<PaymentServiceProviders>
+  <Introduction>
+    <Title>Monitor and understand the digital payment market in a country</Title>
+    <Description>
+      With the increasing demand for digital payments, you need to find and connect with the right potential customers before your competitors do, mitigate risks in your portfolio and quickly recognize changes in your customers’ behavior. By using Dataprovider.com, you’ll rely on the latest data indexed from more than 700 million domains every month: you’ll be the first to see market trends and emerging companies that may be qualified leads. Some of the biggest technology companies, among which Dun & Bradstreet and PayPal, use our data to power their analytics.
+    </Description>
+    <CallToAction>
+      <RequestDemo>https://www.dataprovider.com/request-demo</RequestDemo>
+      <DownloadIndustryReport>https://www.dataprovider.com/download-2023-report</DownloadIndustryReport>
+    </CallToAction>
+  </Introduction>
+  <MarketAnalysis>
+    <Section>
+      <Title>Target the major players and small businesses</Title>
+      <Description>
+        Use our proprietary Traffic Index to monitor the growth and decline of other payment service providers. Our daily and monthly indexes help you determine the usage of payment services over time so you can evaluate their performance on the web. Drill down into the data and discover in which countries and industries your competitors’ customers are and what their traffic estimation is. Filter by ‘eCommerce’ and ‘Brick and mortar’ to get a complete repository of relevant companies and websites you can target.
+      </Description>
+    </Section>
+    <Section>
+      <Title>Complement your data on the payment market</Title>
+      <Description>
+        Analyze the latest trends in the digital payment market: what kind of websites and companies are using a particular payment service provider (PSP); which PSPs are thriving and falling behind; what are the most popular payment methods used on the web? Connect data from our Search Engine with your own data to get a complete picture of the payment market.
+      </Description>
+    </Section>
+  </MarketAnalysis>
+</PaymentServiceProviders>

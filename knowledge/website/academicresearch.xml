@@ -1,0 +1,23 @@
+<AcademicResearch>
+  <Introduction>
+    <Title>The structured search engine for academic research</Title>
+    <Description>
+      The web serves as an abundant source of information, but the sheer volume and lack of organization can pose significant challenges for research purposes. Our search engine provides researchers at universities and National Statistical Offices with easy access to the entire web within a clean, structured database. Use data from 700 million hostnames, including 25 million company websites, to address a vast amount of research questions spanning economic, social, cultural and geopolitical topics. Web data has diverse applications, such as analyzing the Covid-19 impact on digital transformation and technology adoption, measuring countries’ digital economies and examining how cybercrime affects businesses and governments.
+    </Description>
+    <CallToAction>
+      <RequestDemo>https://www.dataprovider.com/request-demo</RequestDemo>
+    </CallToAction>
+  </Introduction>
+  <DataCoverage>
+    <Title>Explore a broad depth of web coverage for your research</Title>
+    <Description>
+      Use our Search Engine to get unique insights into the structure and contents of the internet. Dissect the data with more than 200 data fields, such as company name, website type, social media profiles, content management systems, country, city and more, distilled from millions of websites. Discover information you can’t find using a regular search engine. Gain granular insights into a variety of topics using information about business websites, website content, e-commerce and marketing practices, as well as web technology uses and hosting practices.
+    </Description>
+  </DataCoverage>
+  <HistoricalAnalysis>
+    <Title>Explore web history for trend analyses</Title>
+    <Description>
+      Integrate a web-based source with traditional ones for in-depth research. Go back in time and create datasets to facilitate in-depth analyses over time.
+    </Description>
+  </HistoricalAnalysis>
+</AcademicResearch>

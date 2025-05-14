@@ -1,0 +1,38 @@
+<Registrars>
+  <Introduction>
+    <Title>Understand usage of domain names to increase renewals</Title>
+    <Description>
+      If you get 1,000 new registrations but no content is created early in the registration period, this isn’t healthy growth. Registration volumes cannot—and shouldn’t—be your only way to measure the success of a campaign. Analyzing what’s happening on these newly registered domains every month gives you unique insights: did the domain registrations come through a promotion and how many renewed before the end of the first year? The data helps you understand what metrics define a healthy customer and how to attract more of them.
+    </Description>
+    <CallToAction>
+      <RequestDemo>https://www.dataprovider.com/request-demo</RequestDemo>
+      <DownloadBrochure>https://www.dataprovider.com/download-brochure</DownloadBrochure>
+    </CallToAction>
+  </Introduction>
+  <Strategies>
+    <Strategy>
+      <Title>Increase domain name renewals</Title>
+      <Description>
+        Offer your customers the right service at the right time during the first year of registration to guarantee renewals. Encourage them to set up an email address, redirect, or website as soon as they have registered. Discover how many of the registrations are active business websites, blogs, placeholders, or parked domains and in which industries they operate. This way, you can offer them relevant services: for example, filter by e-commerce and sell SSL certificates to online stores with an expiring or missing SSL certificate.
+      </Description>
+    </Strategy>
+    <Strategy>
+      <Title>Gain control of your domain portfolio</Title>
+      <Description>
+        The domains in your portfolio are your assets. Detect DNS and ownership changes or instances of negligence such as unintended expiration with Know Your Customer. Upload a file with hostnames you want to audit and get a thorough analysis of their website content, technical specifications, and business information. Always get the latest data: companies reorienting their business focus to another sector, a sudden drop in traffic, or a lack of (security) updates and online shops changing their payment method.
+      </Description>
+    </Strategy>
+    <Strategy>
+      <Title>Identify risk areas for better security</Title>
+      <Description>
+        Scan your domain name portfolio for security vulnerabilities. Discover domains in your portfolio that are at risk of hacking, phishing attacks, and other security threats. Identify websites with open ports, outdated content management systems (CMS), unsupported PHP versions, or missing SSL certificates, so you can take action right away and ensure renewals and new registrations.
+      </Description>
+    </Strategy>
+    <Strategy>
+      <Title>Find new growth opportunities in TLD trends</Title>
+      <Description>
+        What’s the ratio of gTLDs, nTLDs, and ccTLDs? Find new growth markets per industry and geolocation and identify who the market players are. Analyze your competitors’ weaknesses: find their customers who are online stores and don’t have an SSL certificate and launch a targeted marketing campaign. Measure and benchmark a particular TLD usage, oversee which gTLD is growing the fastest in which country, and analyze why it’s so.
+      </Description>
+    </Strategy>
+  </Strategies>
+</Registrars>

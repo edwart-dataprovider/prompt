@@ -1,0 +1,29 @@
+<BusinessInformation>
+  <Introduction>
+    <Title>Expand your market intelligence with business web data</Title>
+    <Description>
+      If you want to know what a business is doing today, you'll check its website for the most recent information: address, contact details, products and services. A company website also contains important links and connections to other websites which provides you with additional information about the ecosystem in which the company operates. Our structured search engine contains web data indexed - and updated on a monthly basis - from 700 million domains, including 25 million company websites. Some of the biggest business information providers, among which Creditsafe and Dun & Bradstreet, are using our data to power their insights and analysis.
+    </Description>
+    <CallToAction>
+      <RequestDemo>https://www.dataprovider.com/request-demo</RequestDemo>
+      <DownloadBrochure>https://www.dataprovider.com/download-brochure</DownloadBrochure>
+    </CallToAction>
+  </Introduction>
+  <StructuredData>
+    <Title>Understand businesses with structured company web data</Title>
+    <Sections>
+      <Section>
+        <Title>Explore business web data ready for immediate use</Title>
+        <Description>
+          Search for very specific data with more than 200 data points - distilled from millions of websites - such as web technologies, payment methods, SIC codes, brick and mortar stores, e-commerce, languages and more. Explore global trends: fastest growing industries across countries, growth of e-commerce, internet usage demographics, comparison of businesses by popularity and more. Track how often company websites change, which web technologies they’re using and how they’re evolving.
+        </Description>
+      </Section>
+      <Section>
+        <Title>Enrich any list, at any time</Title>
+        <Description>
+          Expand the information you already have and make it complete using a comprehensive dataset of over 100 B2B data points. Upload a list of your company domains or email addresses and automatically enrich them, without having to write any code. Connect the dots: start from an email address and discover the hostname, domain, business contact details and much more. The depth of insight allows you to create robust profiles of your contacts and link a company name to a website or the other way around.
+        </Description>
+      </Section>
+    </Sections>
+  </StructuredData>
+</BusinessInformation>

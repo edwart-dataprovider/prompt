@@ -1,0 +1,57 @@
+<AboutPage>
+  <Introduction>
+    <Title>Founded in the Netherlands, structuring the world</Title>
+    <Subtitle>At Dataprovider.com we take on the challenge of structuring the global web</Subtitle>
+    <Description>Dataprovider.com transforms the internet into an ever-growing structured database. We’re here for all data-minded professionals, from marketeers to IP specialists, from governments to investment bankers and everyone in between.</Description>
+    <Offices>
+      <Office>Groningen</Office>
+      <Office>Amsterdam</Office>
+      <Office>Silicon Valley</Office>
+    </Offices>
+    <Independence>We're a global company with European roots that remains 100% independent.</Independence>
+  </Introduction>
+  <OurStory>
+    <Paragraph>The web is the world's greatest information source - literally and figuratively. It contains more valuable information than all annual reports and trend analyses rolled into one. However, the web is also the world's greatest source of information chaos. As a result, it's extremely tough to extract qualitative data.</Paragraph>
+    <Paragraph>In 2009, Christian Branbergen, Gijs Barends and Marc Noët decided to take on that challenge. They built an international team of data mavens and some of the best software engineers to transform the web into an impressive structured database.</Paragraph>
+    <Paragraph>Since 2012, we've been structuring relevant digital actions into concrete insights that fuel business decisions for leading organizations such as PayPal, Government Statistics, GoDaddy, Mollie, Takeaway.com and the investment industry. Because we fully gather it ourselves, all of our data is proprietary. This enables us to maintain the highest ethical and privacy standards.</Paragraph>
+  </OurStory>
+  <Culture>
+    <Title>Though we're growing fast, we haven't lost our startup spirit</Title>
+    <Description>Life at Dataprovider.com is all about working hard, working together and working to help each other out.</Description>
+    <Activities>
+      <Activity>Ice cream (any time of day or year)</Activity>
+      <Activity>Board games</Activity>
+      <Activity>Ping-pong</Activity>
+      <Activity>American pool</Activity>
+    </Activities>
+    <Note>Pay a virtual visit to our Groningen office via our Instagram feed. We're always hiring.</Note>
+  </Culture>
+  <LeadershipTeam>
+    <Member>
+      <Name>Marc Noët</Name>
+      <Role>Co-founder</Role>
+    </Member>
+    <Member>
+      <Name>Christian Branbergen</Name>
+      <Role>Co-founder</Role>
+    </Member>
+    <Member>
+      <Name>Gijs Barends</Name>
+      <Role>Co-founder</Role>
+    </Member>
+    <Member>
+      <Name>Martin Plak</Name>
+      <Role>Privacy Officer</Role>
+    </Member>
+    <Member>
+      <Name>Rutger Middendorf</Name>
+      <Role>Legal Counsel</Role>
+    </Member>
+  </LeadershipTeam>
+  <CallToAction>
+    <WorkWithUs>Check our jobs</WorkWithUs>
+    <FollowUs>LinkedIn</FollowUs>
+    <TryUsForFree>Request a free demo</TryUsForFree>
+    <Newsletter>Sign up to our newsletter</Newsletter>
+  </CallToAction>
+</AboutPage>

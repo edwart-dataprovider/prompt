@@ -1,0 +1,62 @@
+<Registries>
+  <Introduction>
+    <Title>Track the latest TLD trends to increase renewals and registrations</Title>
+    <Description>
+      Benchmark against other TLDs, including the market leader, and make more precise forecasts for your monthly and yearly goals. Analyze changes to your domain portfolio and check usage, redirects, security, and more. Share these actionable web data insights with your channel partners, so they can understand their end users, find new growth opportunities, and upsell the right products and services at the right time.
+    </Description>
+    <CallToAction>
+      <RequestDemo>https://www.dataprovider.com/request-demo</RequestDemo>
+      <DownloadBrochure>https://www.dataprovider.com/download-brochure</DownloadBrochure>
+      <DownloadReport>https://www.dataprovider.com/download-2023-report</DownloadReport>
+    </CallToAction>
+  </Introduction>
+  <ZoneFileMonitoring>
+    <Title>Monitor your zone file</Title>
+    <Sections>
+      <Section>
+        <Title>Prevent cybersecurity threats</Title>
+        <Description>
+          Support your registrar partners with an in-depth overview of domains that are at risk of hacking, phishing attacks, and other security threats. Identify websites with open ports, outdated content management systems (CMS), unsupported PHP versions, or without SSL certificates, and share this crucial information with them so they can take action right away and ensure renewals and new registrations.
+        </Description>
+      </Section>
+      <Section>
+        <Title>gTLDs: Increase renewals and registrations</Title>
+        <Description>
+          Get a 360-degree view of the domains in your zone file. Apply our data filter ‘Response’ to discover how many are active business websites, blogs, placeholders, or parked domains. Dig deeper and filter by ‘Country’, ‘Website type’, ‘Language’, ‘SIC major group’, and more. That way, you can help your registrar partners run targeted marketing campaigns: for example, offer SSL certificates to online stores or website builders and email hosting to parked domains.
+        </Description>
+      </Section>
+      <Section>
+        <Title>ngTLDs: Grow your market share</Title>
+        <Description>
+          With the influx of nTLDs getting registered each day, you need to apply a more creative and strategic approach to promote your TLD. Identify new customers by searching for domain names that contain your TLD. For example, select the data filters ‘Title’, ‘Description’, ‘Keywords’, and ‘Company name’ to discover all domains that contain “space” (www.intelligentspace.com) and can benefit from a shorter and more targeted domain name: www.intelligent.space.
+        </Description>
+      </Section>
+      <Section>
+        <Title>ccTLDs: Track the health and growth of your zone files</Title>
+        <Description>
+          Leverage our geographical data to find domains in your country that are registered under gTLDs or new gTLDs. Measure and compare the percentage of domains using your ccTLD and other gTLDs and analyze why it’s so. Discover who the market leaders are and how you benchmark against them. You can dissect the data and filter the domains by language, industry, country, activity, and over 200 other data points to get more in-depth insights that will support your marketing efforts.
+        </Description>
+      </Section>
+    </Sections>
+  </ZoneFileMonitoring>
+  <Products>
+    <Product>
+      <Name>Search Engine</Name>
+      <Description>
+        Filter the web by over 200 data points such as registrar, hosting company, TLD type. Measure and track TLD trends in 50 countries. Analyze the data with automatically generated graphs and statistical reports. Export CSV reports.
+      </Description>
+    </Product>
+    <Product>
+      <Name>Know Your Customer</Name>
+      <Description>
+        Upload your domain name assets on our firewall-protected servers to get more insights. Import your data from a CSV file and add a unique ID. Analyze trends and scores over time. Export PDF reports to understand your end users.
+      </Description>
+    </Product>
+    <Product>
+      <Name>Ownership</Name>
+      <Description>
+        Trace any domain back to its roots, uncover hidden connections. Uncover networks & ownerships. Access historical data. Retrieve associated websites.
+      </Description>
+    </Product>
+  </Products>
+</Registries>

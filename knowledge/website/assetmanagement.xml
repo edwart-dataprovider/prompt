@@ -1,0 +1,25 @@
+<AssetManagement>
+  <Introduction>
+    <Title>Get actionable web intelligence for equity research</Title>
+    <Description>Managing various sources of information is crucial for effective investment decision-making and earning active returns. With Dataprovider.com, you can search through the indexed world wide web and monitor changes to websites. Track historical web trends and oversee digital developments of key competitors, partners, and industry players. Construct detailed company profiles using very specific web data to build a well-informed picture about a company and conduct fundamental equity research.</Description>
+    <CallToAction>
+      <RequestDemo>https://www.dataprovider.com/request-demo</RequestDemo>
+      <DownloadBrochure>https://www.dataprovider.com/download-brochure</DownloadBrochure>
+      <DownloadReport>https://www.dataprovider.com/download-2023-report</DownloadReport>
+    </CallToAction>
+  </Introduction>
+  <EquityResearch>
+    <Section>
+      <Title>Track the performance of publicly listed tech companies</Title>
+      <Description>Audit the performance of tech companies and find out more about a particular company’s background for your alpha-generating strategy. Discover how many businesses across the globe use a particular web technology or service to identify who is winning and losing market shares and better understand the popularity and development of the technology.</Description>
+    </Section>
+    <Section>
+      <Title>Discover signals that matter to the stock markets</Title>
+      <Description>Monitor the online growth and decline of companies. Our Traffic Index provides daily insights into website popularity and the payment and communications services a website uses. Find all relevant discovered subdomains and use this actionable intelligence as an indicator to track the alpha.</Description>
+    </Section>
+    <Section>
+      <Title>Gain insights into the online movement of businesses</Title>
+      <Description>Use our reverse Domain Name System (DNS) technology to gain insights into what networks surround a particular domain. Discover all hostnames related to a domain or a company. Uncover networks and analyze the growth and movement of large companies and IPs.</Description>
+    </Section>
+  </EquityResearch>
+</AssetManagement>

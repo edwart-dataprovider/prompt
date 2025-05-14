@@ -1,0 +1,53 @@
+<Cybersecurity>
+  <Introduction>
+    <Title>Enrich your asset discovery data to tackle cybersecurity threats</Title>
+    <Description>
+      Just like companies, digital assets grow over time. You start with a domain name and a server for your website and gradually add more domains, subdomains, and machines. They require regular maintenance, but this is often overlooked. Unmanaged, outdated digital assets are an entry point for cybercriminals to the network of your company, so it’s crucial that you keep a comprehensive profile in order to secure them.
+    </Description>
+    <CallToAction>
+      <RequestDemo>https://www.dataprovider.com/request-demo</RequestDemo>
+      <DownloadBrochure>https://www.dataprovider.com/download-brochure</DownloadBrochure>
+      <DownloadReport>https://www.dataprovider.com/download-2023-report</DownloadReport>
+    </CallToAction>
+  </Introduction>
+  <AssetDiscovery>
+    <Section>
+      <Title>Monthly updated data for an overview of digital assets</Title>
+      <Description>
+        Our web data helps you discover—on a monthly basis—new or unknown digital assets of your customers for your exploratory research. Integrate our data solutions into your vulnerability management system through API data points. This way, you can continuously discover new digital assets and inspect vulnerabilities such as outdated CMS versions, web server software, operating systems, misconfigured firewalls, and expiring or missing SSL certificates.
+      </Description>
+    </Section>
+    <Section>
+      <Title>Discover unknown digital assets of your customers</Title>
+      <Description>
+        Enrich your data to discover unknown or new internet assets of your customers, including hosts, servers, domains, and websites. Use our filters ‘Domain’ and ‘IP address’ in Search Engine and discover all your customers’ domains. Integrate our Ownership API to detect associated domains and Reverse DNS to discover machines connected to them for a complete overview of your customers’ digital assets. The data from our SSL Catalog tool allows you to find all related services.
+      </Description>
+    </Section>
+    <Section>
+      <Title>Detect cybersecurity vulnerabilities in your customers’ assets</Title>
+      <Description>
+        Digital services present unique challenges for enterprises because of their ease of access by cyber attackers. Our data solutions are easy to integrate through APIs, so you can build a solid inventory of your customers’ digital assets and monitor that they remain secure. You can detect different vulnerabilities in your customers’ digital assets, such as open ports, outdated versions of CMS systems, expiring or missing SSL certificates, old PHP or Apache versions, possible causes for DNS attacks, and many more. Use our web data for an ongoing discovery of cybersecurity risks.
+      </Description>
+    </Section>
+  </AssetDiscovery>
+  <Products>
+    <Product>
+      <Name>SSL Catalog</Name>
+      <Description>
+        Monitor SSL certificate developments on a daily basis. Map digital assets to detect security vulnerabilities. Track SSL developments by certificate issuer, type, version, or expiration date. Find fraudulent websites based on issued SSL certificates.
+      </Description>
+    </Product>
+    <Product>
+      <Name>Reverse DNS</Name>
+      <Description>
+        Discover machines connected to the domains you’re analyzing. Track changes every month. Uncover the IP addresses of machines connected to a specific domain.
+      </Description>
+    </Product>
+    <Product>
+      <Name>Ownership</Name>
+      <Description>
+        Trace any domain back to its roots, uncover hidden connections. Uncover networks and ownerships. Access historical data. Retrieve associated websites.
+      </Description>
+    </Product>
+  </Products>
+</Cybersecurity>

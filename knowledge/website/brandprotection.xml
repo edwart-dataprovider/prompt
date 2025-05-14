@@ -1,0 +1,62 @@
+<OnlineBrandProtection>
+  <Introduction>
+    <Title>Protect your brand online. Start today</Title>
+    <Description>
+      Detect infringing websites that can’t be found using a regular search engine. With Dataprovider.com you can uncover fraudulent websites in seconds, monitor changes to websites and discover who owns a domain name. Safeguard your trademark and corporate portfolio assets and those of your associated brands by identifying potential infringing or gray market activities. Keep track of all domains in your portfolio and monitor activity, so you can take full control of your assets.
+    </Description>
+    <CallToAction>
+      <RequestDemo>https://www.dataprovider.com/request-demo</RequestDemo>
+      <DownloadBrochure>https://www.dataprovider.com/download-brochure</DownloadBrochure>
+    </CallToAction>
+  </Introduction>
+  <Features>
+    <Feature>
+      <Title>Find and monitor newly registered domains that infringe on your brand</Title>
+      <Description>
+        Minimize time and effort to uncover potentially infringing websites and domains. Safeguard your assets and prevent infringement threats with real-time updates of changes to the domains in your portfolio. Plug Dataprovider.com into your risk management or marketing automation system and get informed of developments right as they happen.
+      </Description>
+    </Feature>
+    <Feature>
+      <Title>Detect digital infringement with our unique Trust grade</Title>
+      <Description>
+        Discover websites that are registered and used in bad faith. Our Trust grade identifies websites that might be exploiting your brand’s trademark or require authorization to use it. Download your datasets to take action right away and use the data as evidence to build your brand infringement claim.
+      </Description>
+    </Feature>
+    <Feature>
+      <Title>Discover entire clusters of fraudulent websites to catch all copycats</Title>
+      <Description>
+        Detect duplicate websites that have a similar HTML structure and quickly uncover an entire cluster of nearly identical websites that most likely roll up to the same owner. Apply our Trust grade to find one fraudulent website and easily retrieve all other near duplicates that share the same properties by applying our Fingerprint feature.
+      </Description>
+    </Feature>
+    <Feature>
+      <Title>Find out who’s behind a domain name</Title>
+      <Description>
+        Automatically retrieve associated domains and websites rolling up to the same registrar or hosting provider with our Ownership tool. Determine ownership based on multiple unique attributes. Go back in time with our historical web data to track changes in the past and use them as evidential support in your investigative efforts.
+      </Description>
+    </Feature>
+  </Features>
+  <Products>
+    <Product>
+      <Name>Know Your Customer</Name>
+      <Description>
+        Monitor changes in your domain name assets. Import your data, analyze trends and scores, and export PDF reports.
+      </Description>
+    </Product>
+    <Product>
+      <Name>Search Engine</Name>
+      <Description>
+        Apply over 200 data variables to create a targeted search. Search through our database, use statistics and trends, and export CSV reports.
+      </Description>
+    </Product>
+    <Product>
+      <Name>Ownership</Name>
+      <Description>
+        Trace any domain back to its roots, uncover hidden connections. Uncover networks & ownerships, access historical data, and retrieve associated websites.
+      </Description>
+    </Product>
+  </Products>
+  <CaseStudy>
+    <Title>Using structured data to fight brand infringement</Title>
+    <URL>https://www.dataprovider.com/cases/using-structured-data-to-fight-brand-infringement/</URL>
+  </CaseStudy>
+</OnlineBrandProtection>

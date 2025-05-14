@@ -1,0 +1,52 @@
+<PressPage>
+  <Introduction>
+    <Title>Explore the potential of web data for journalistic purposes</Title>
+    <Description>
+      The web is an abundant source of information, but the sheer volume and lack of organization can pose significant challenges for journalistic and research purposes. With our Search Engine, you can easily access the entire web within a clean, structured database. Use data from 700 million hostnames, including 25 million company websites, to address a vast array of questions spanning economic, social, cultural, and geopolitical topics.
+    </Description>
+    <SupportStatement>
+      We are here to support you with relevant data and any analytical needs to address topics such as the impact of Covid-19 on digital transformation and technology adoption, measuring countries’ digital economies, and examining how cybercrime affects businesses and governments. In a nutshell, web data can help you find fresh perspectives, expand your story, and verify your assumptions.
+    </SupportStatement>
+    <CallToAction>
+      We’d love to share our stories and insights with journalists around the world. To discover the exciting potential of web data for journalistic purposes, we encourage you to reach out to us via the contact form.
+    </CallToAction>
+  </Introduction>
+  <PressStories>
+    <Story>
+      <Title>GDPR push for privacy by design still ‘a long way off’</Title>
+      <Source>Compliance Week</Source>
+      <Date>About 2 years ago</Date>
+      <URL>https://www.complianceweek.com</URL>
+    </Story>
+    <Story>
+      <Title>Inspirational Woman: Lucia Baldassini</Title>
+      <Source>Wearetechwoman.com</Source>
+      <Date>About 2 years ago</Date>
+      <URL>https://wearetechwomen.com</URL>
+    </Story>
+    <Story>
+      <Title>How startups and scaleups can leverage web data for success</Title>
+      <Source>Startupsmagazine</Source>
+      <Date>Almost 2 years ago</Date>
+      <URL>https://startupsmagazine.co.uk</URL>
+    </Story>
+    <Story>
+      <Title>Responsible disclosure and ethical hacking: an interview with Dataprovider.com co-founder Gijs Barends</Title>
+      <Source>Technews180</Source>
+      <Date>Almost 2 years ago</Date>
+      <URL>https://technews180.com</URL>
+    </Story>
+    <Story>
+      <Title>A Snapshot of the Domain Industry in 2023</Title>
+      <Source>CircleID</Source>
+      <Date>About 2 years ago</Date>
+      <URL>https://circleid.com</URL>
+    </Story>
+    <Story>
+      <Title>An analysis of European online shops and their domain names</Title>
+      <Source>Snapshot</Source>
+      <Date>Over 2 years ago</Date>
+      <URL>https://www.internetx.com</URL>
+    </Story>
+  </PressStories>
+</PressPage>

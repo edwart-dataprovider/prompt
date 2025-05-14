@@ -1,0 +1,23 @@
+<TrafficIndex>
+  <Introduction>
+    <Title>Gain actionable insights into the popularity of websites and online services</Title>
+    <Description>Monitor the popularity of a hostname and track how it changes over time.</Description>
+    <CallToAction>
+      <RequestDemo>https://www.dataprovider.com/request-demo</RequestDemo>
+    </CallToAction>
+  </Introduction>
+  <Features>
+    <Feature>
+      <Title>Benchmark popularity</Title>
+      <Description>Our Traffic Index is benchmarked against the most popular website in a country. You can compare growth or decline over time by viewing weekly or monthly data, both at the hostname and subdomain level.</Description>
+    </Feature>
+    <Feature>
+      <Title>Track web services usage</Title>
+      <Description>Discover how services like Shopify, Netflix, or Slack are performing by analyzing their presence in domain traffic rankings over time.</Description>
+    </Feature>
+    <Feature>
+      <Title>Detect activity</Title>
+      <Description>Use the Traffic Index to identify sudden spikes or drops in popularity and understand their root causes. Ideal for competitive analysis and fraud detection.</Description>
+    </Feature>
+  </Features>
+</TrafficIndex>

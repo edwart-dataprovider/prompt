@@ -1,0 +1,28 @@
+<Enrichment>
+  <Introduction>
+    <Title>Enrich your data with data from company websites</Title>
+    <Description>
+      Start from a small piece of data and expand it with relevant context from more than 200 data points.
+    </Description>
+  </Introduction>
+  <KeyBenefits>
+    <Benefit>
+      <Title>Retrieve websites</Title>
+      <Description>
+        Complete your list of business registry numbers, addresses, phone numbers, or email addresses with the corresponding company websites, even if they aren't active anymore.
+      </Description>
+    </Benefit>
+    <Benefit>
+      <Title>Enrich any list, at any time</Title>
+      <Description>
+        Start from a company name to discover the website, linked domains, and technical aspects. Expand the pieces of information you already have using more than 200 data points.
+      </Description>
+    </Benefit>
+    <Benefit>
+      <Title>Complement your analytics</Title>
+      <Description>
+        Upload a list of your company domains or email addresses and automatically enrich them without having to write any code.
+      </Description>
+    </Benefit>
+  </KeyBenefits>
+</Enrichment>

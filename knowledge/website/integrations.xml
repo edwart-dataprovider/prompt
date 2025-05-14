@@ -1,0 +1,44 @@
+<IntegrationsPage>
+  <Header>
+    <Title>Have your platform talk to our platform</Title>
+    <Subtitle>Check our virtually limitless possibilities for data insights and click-to-go integrations.</Subtitle>
+  </Header>
+  <Integrations>
+    <Integration>
+      <Name>Google Sheets</Name>
+      <Description>Connect data from multiple platforms to track projects and perform calculations into one place. Analyze all data into a single spreadsheet.</Description>
+    </Integration>
+    <Integration>
+      <Name>Amazon S3</Name>
+      <Description>Gather, store and retrieve as much data as you want and whenever you want to. Transfer large amounts of data with ease.</Description>
+    </Integration>
+    <Integration>
+      <Name>HubSpot</Name>
+      <Description>Plug in and get immediate access to our structured data: add or enrich leads and receive automated updates when something changes on your customers’ websites.</Description>
+    </Integration>
+    <Integration>
+      <Name>Snowflake</Name>
+      <Description>Easily and securely access and integrate data. Analyze all your data sources together in a single place and unlock actionable insights.</Description>
+    </Integration>
+    <Integration>
+      <Name>Tableau</Name>
+      <Description>Get one-click access to the data you need (including history) for in-depth analyses. Automatically keep the data in your system fresh.</Description>
+    </Integration>
+    <Integration>
+      <Name>Power BI</Name>
+      <Description>Sync all your data in one place and generate detailed analyses and reports triggered by automated updates.</Description>
+    </Integration>
+    <Integration>
+      <Name>ActiveCampaign</Name>
+      <Description>Power your marketing campaigns with actionable insights: stay up to date with the latest changes on your customers’ websites and use these signals for your campaign playbook.</Description>
+    </Integration>
+    <Integration>
+      <Name>Salesforce</Name>
+      <Description>Refine your records with structured company web data, automatically export them to Salesforce and keep them fresh.</Description>
+    </Integration>
+  </Integrations>
+  <APIIntegration>
+    <Title>Dataprovider.com API</Title>
+    <Description>Integrate our data in your technology stack. As you determine how you structure data within your systems, our API offers flexibility and scalability to meet your needs.</Description>
+  </APIIntegration>
+</IntegrationsPage>

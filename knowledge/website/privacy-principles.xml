@@ -1,0 +1,43 @@
+<PrivacyPrinciples>
+  <Introduction>
+    <Title>Our Data Privacy Principles</Title>
+    <Subtitle>Stay in control of your data. Rely on GDPR-compliant data for your analytics and research.</Subtitle>
+  </Introduction>
+  <Sections>
+    <Section>
+      <Title>Rely on European privacy standards</Title>
+      <Content>
+        <Paragraph>All our processes, procedures, and policies comply with GDPR rules and regulations, which set the world’s strictest privacy standards, and with the California Consumer Privacy Act (CCPA) that enhances privacy rights and consumer protection for residents of California, United States.</Paragraph>
+        <Paragraph>We’ve programmed our crawler to comply with the international standard of the Robots Exclusion protocol and not crawl websites if there are rules in their robots.txt files that disallow crawling.</Paragraph>
+      </Content>
+    </Section>
+    <Section>
+      <Title>Your data is protected</Title>
+      <Content>
+        <Paragraph>We focus on internet technologies, their potential, and protection from misuse. We do everything in our power to protect our customers’ sensitive information from unauthorized access, changes, misuse, and unwanted disclosure.</Paragraph>
+        <Paragraph>We collaborate with financial and domain industry leaders, top universities, and governments, such as Statistics Netherlands, providing them with data to support their policies and research.</Paragraph>
+      </Content>
+    </Section>
+    <Section>
+      <Title>You’re in control of your data</Title>
+      <Content>
+        <Paragraph>When you share a list with domains and websites that you want to audit with Know Your Customer, we secure it on our firewall-protected private servers to which only you have access.</Paragraph>
+        <Paragraph>Read more about how we store and process your data in our privacy statement. If you want to review which of your data we’ve indexed, you can contact our Data Protection Officer (privacy.officer@dataprovider.com) and request access, deletion, and correction.</Paragraph>
+      </Content>
+    </Section>
+    <Section>
+      <Title>You can trust the integrity of our data</Title>
+      <Content>
+        <Paragraph>We can always trace our data to its source: we don’t use any third-party data (except for our Traffic Index). Our advanced proprietary software indexes hundreds of millions of web pages and processes and structures this information into more than 200 relevant data points in categories such as geolocation, e-commerce, marketing, technical aspects, hosting, and more.</Paragraph>
+        <Paragraph>In Dataprovider.com, you see how we’ve detected each result using our filters.</Paragraph>
+      </Content>
+    </Section>
+    <Section>
+      <Title>Privacy by Design</Title>
+      <Content>
+        <Paragraph>Our Privacy by Design technology ensures that by default we minimize the personally identifiable information (PII) to what is needed to accomplish your goal. We use the latest hashing techniques to minimize the use of PII.</Paragraph>
+        <Paragraph>For questions about our Privacy Principles, contact our Data Protection Officer at privacy.officer@dataprovider.com.</Paragraph>
+      </Content>
+    </Section>
+  </Sections>
+</PrivacyPrinciples>

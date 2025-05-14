@@ -1,0 +1,31 @@
+<SearchEngine>
+  <Introduction>
+    <Title>Search beyond keywords</Title>
+    <Description>
+      Search for specific data that you can’t find using a regular search engine.
+    </Description>
+    <CallToAction>
+      <RequestDemo>https://www.dataprovider.com/request-demo</RequestDemo>
+    </CallToAction>
+  </Introduction>
+  <Features>
+    <Feature>
+      <Title>Structured search</Title>
+      <Description>
+        Zoom in on more than 700 million domains. What clouds are companies using worldwide, how many e-commerce websites in Europe don’t have an SSL certificate, how many retailers in the USA have a brick-and-mortar store? Find answers to these and even more specific questions using our Search Engine. Also, search beyond keywords: find all websites selling shoes even if they don’t use this particular keyword but related ones like “boots” or “footwear”.
+      </Description>
+    </Feature>
+    <Feature>
+      <Title>Over 200 data points</Title>
+      <Description>
+        Build custom datasets for granular insights. Dissect the data with more than 200 unique data points from various categories: geolocation, business, content, e-commerce, marketing, technical specifications, hosting and development. Use the filters in any combination to discover unique results, such as the location of websites at a country, region and city level, type of online stores, payment methods they use and many more. Build comprehensive datasets with a few clicks for in-depth market intelligence.
+      </Description>
+    </Feature>
+    <Feature>
+      <Title>Trends</Title>
+      <Description>
+        Track technologies and predict future trends. Measure historical web trends in 50 countries up to four years back in time: fastest growing industries and emerging players across the globe, digital developments of key competitors, internet usage demographics, comparison of businesses by popularity and many more. Track how often company websites change, which web technologies they’re using and how they’re growing. Construct detailed company profiles and find new angles for your analytics.
+      </Description>
+    </Feature>
+  </Features>
+</SearchEngine>

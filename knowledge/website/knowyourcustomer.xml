@@ -1,0 +1,23 @@
+<KnowYourCustomer>
+  <Introduction>
+    <Title>Get to know your customers at a deeper level</Title>
+    <Description>Use our advanced Know Your Customer (KYC) tool to audit your customers’ domains and websites.</Description>
+    <CallToAction>
+      <RequestDemo>https://www.dataprovider.com/request-demo</RequestDemo>
+    </CallToAction>
+  </Introduction>
+  <Features>
+    <Feature>
+      <Title>Audit everything, anytime</Title>
+      <Description>Understand your customers by keeping track of their websites, so you can sell them relevant products at the right time. Upload a file with hostnames you want to audit and get a thorough analysis of their website content, technical specifications, business information and more.</Description>
+    </Feature>
+    <Feature>
+      <Title>Detect any changes or instances of negligence</Title>
+      <Description>With KYC you can continuously monitor any changes: for example, a company reorienting its business focus to another sector, a sudden drop in traffic or a lack of (security) updates, an online shop changing its payment method.</Description>
+    </Feature>
+    <Feature>
+      <Title>Your list, your data</Title>
+      <Description>Nobody will have access to the data we’ve indexed for you. The results are yours alone: we won’t share them with third parties and won’t make them available in our Search Engine.</Description>
+    </Feature>
+  </Features>
+</KnowYourCustomer>

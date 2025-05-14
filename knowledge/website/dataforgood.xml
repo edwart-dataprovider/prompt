@@ -1,0 +1,17 @@
+<DataForGood>
+  <Introduction>
+    <Title>Creating positive impact together</Title>
+    <Description>At Dataprovider.com, we believe that businesses have a responsibility to use their resources to make a positive impact on society, and we are committed to doing our part.</Description>
+    <Commitment>We will make our data available to organizations and researchers who want to make a positive impact on the world. We understand that data plays a vital role in decision-making and improving the effectiveness of programs, and we are here to help you tap into this powerful resource.</Commitment>
+    <Audience>
+      <Group>Charities seeking to improve the effectiveness of their programs</Group>
+      <Group>Not-for-profit organizations seeking to better understand the needs of their community</Group>
+      <Group>Academic researchers seeking to make a significant contribution to their field</Group>
+    </Audience>
+    <SupportStatement>We are here to help.</SupportStatement>
+  </Introduction>
+  <UseCase>
+    <Title>Use case</Title>
+    <Image alt="Interview with Michael König" />
+  </UseCase>
+</DataForGood>

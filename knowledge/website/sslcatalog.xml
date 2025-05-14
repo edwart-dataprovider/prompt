@@ -1,0 +1,23 @@
+<SSLCatalog>
+  <Introduction>
+    <Title>Gain detailed insights into SSL certificate usage</Title>
+    <Description>Monitor the growth and decline of SSL certificate adoption. Find vulnerable systems and detect compliance risks.</Description>
+    <CallToAction>
+      <RequestDemo>https://www.dataprovider.com/request-demo</RequestDemo>
+    </CallToAction>
+  </Introduction>
+  <Features>
+    <Feature>
+      <Title>Track SSL adoption</Title>
+      <Description>Identify websites that lack SSL or use outdated certificates. Understand global trends in certificate adoption across industries and countries.</Description>
+    </Feature>
+    <Feature>
+      <Title>Prevent vulnerabilities</Title>
+      <Description>Find websites with expired or insecure SSL certificates. Use this insight for security audits or to proactively offer updates.</Description>
+    </Feature>
+    <Feature>
+      <Title>Enrich security profiles</Title>
+      <Description>Combine SSL data with hosting, technology stack, and company info to build comprehensive digital risk profiles.</Description>
+    </Feature>
+  </Features>
+</SSLCatalog>

@@ -1,0 +1,48 @@
+<DataproviderDataPage>
+  <Overview>
+    <Title>Get a 360-degree view of industries, competitors and customers</Title>
+    <Description>Anything from technical specifications, web trends and stats, popularity of web technologies and services and more.</Description>
+    <KeyFeatures>
+      <Feature>Traffic Index</Feature>
+      <Feature>Know Your Customer</Feature>
+      <Feature>SSL Catalog</Feature>
+      <Feature>Enrichment</Feature>
+      <Feature>Ownership</Feature>
+      <Feature>Proprietary Scores</Feature>
+      <Feature>Trends</Feature>
+      <Feature>Stats</Feature>
+    </KeyFeatures>
+  </Overview>
+  <Insights>
+    <Insight>
+      <Title>Actionable web insights at your fingertips</Title>
+      <Description>Zoom in on more than 700 million domains and filter the data by over 200 data points, from technical to marketing information, such as hosting, content management system, estimated number of web visitors and many more.</Description>
+    </Insight>
+    <Insight>
+      <Title>Track changes to companies and markets over time</Title>
+      <Description>Use historical data up to four years to analyze current web trends and predict future trends in 50 countries: fastest growing industries across countries, digital developments of key competitors, internet usage demographics and many more.</Description>
+    </Insight>
+    <Insight>
+      <Title>Audit your customers’ domains and websites</Title>
+      <Description>Monitor any changes to your customers’ domains and websites: for example, a company reorienting its business focus to another sector, a sudden drop in traffic or a lack of (security) updates, an online shop changing its payment method and more.</Description>
+    </Insight>
+    <Insight>
+      <Title>Measure the popularity of hostnames and services</Title>
+      <Description>Measure the popularity of hostnames, web services and apps such as Netflix and Slack. Monitor the growth or decline of payment and communications web technologies that tech companies around the world are using.</Description>
+    </Insight>
+  </Insights>
+  <StructuredSearch>
+    <Title>Structured search</Title>
+    <Description>Find information you can’t find using a regular search engine</Description>
+    <Details>
+      <Detail>
+        <Title>Get a complete view</Title>
+        <Description>Find answers to very specific questions using monthly updated data indexed from more than 700 million domains and websites.</Description>
+      </Detail>
+      <Detail>
+        <Title>Explore web technologies</Title>
+        <Description>Search the web for web technologies and services that companies are using.</Description>
+      </Detail>
+    </Details>
+  </StructuredSearch>
+</DataproviderDataPage>

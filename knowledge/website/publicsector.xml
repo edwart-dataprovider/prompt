@@ -1,0 +1,64 @@
+<PublicSector>
+  <Introduction>
+    <Title>Measure and analyze the digital economy and its impact</Title>
+    <Description>
+      Create better policies by examining the digital economy in your and other countries using structured web data. Apply global web data indexed from 700 million domains, including 25 million company websites, to analyze diverse economic indicators and new trends. Get monthly updated insights into how businesses make use of the web: how digitally active are businesses in a given country, how many of them have a website, what percentage of these websites is e-commerce, what type of e-commerce websites is prevailing, and more.
+    </Description>
+    <CallToAction>
+      <RequestDemo>https://www.dataprovider.com/request-demo</RequestDemo>
+      <DownloadBrochure>https://www.dataprovider.com/download-brochure</DownloadBrochure>
+    </CallToAction>
+  </Introduction>
+  <DigitalEconomyTrends>
+    <Section>
+      <Title>Adopt web data to complement your analysis</Title>
+      <Description>
+        Make a fine-grained overview of the economic impact of online businesses integrating big data with traditional data sources. Expand your data from more classical statistical sources, such as official business registers, with monthly updated structured web data from active company websites. Link data variables such as business registry numbers, website names, postal codes, telephone numbers and email addresses with the most recent information indexed from the website of the respective business.
+      </Description>
+    </Section>
+    <Section>
+      <Title>Map the internet economy by sector</Title>
+      <Description>
+        As the economic activities of a company change, its website immediately reflects these updates. We classify business websites into industries using the internationally recognized Standard Industrial Classification (SIC) codes. This allows you to map different industries based on their internet presence and economic activity online. With our historic data and monthly updates you can identify growing and declining sectors as well as monitor any companies that reorient their business focus to other sectors.
+      </Description>
+    </Section>
+    <Section>
+      <Title>Track new web developments in various industries and markets</Title>
+      <Description>
+        Monitor web trends with more than 200 data points, such as web technologies, payment methods, SIC codes, brick and mortar stores, e-commerce, languages and more. Explore global trends such as fastest growing industries and markets across countries, growth of e-commerce, internet usage demographics and benchmarking of businesses by popularity, among others. Examine how often company websites change, which web technologies they’re using and how they’re evolving with time.
+      </Description>
+    </Section>
+    <Section>
+      <Title>Analyze and compare the cybersecurity of countries</Title>
+      <Description>
+        Help businesses by creating policies that address the increasing threat of cybersecurity attacks. Our data allows you to get a complete picture of the security gaps and vulnerabilities of companies in your country. Discover how to prevent phishing and email spam, clickjacking, and other cybersecurity attacks due to outdated SSL certificates, CMS systems or PHP versions. Apply Reverse DNS Lookup to find all different servers of a particular company; use our Ownership tool to find all websites that belong to a particular company and monitor all hostnames and web services in a country with our Traffic Index.
+      </Description>
+    </Section>
+  </DigitalEconomyTrends>
+  <Products>
+    <Product>
+      <Name>Search Engine</Name>
+      <Description>
+        Explore over 200 data points such as website category, company type, SIC code and more. Measure and track historical web trends in 50 countries. Instantly access graphs and statistical reports. Export raw data for your own custom analyses.
+      </Description>
+    </Product>
+    <Product>
+      <Name>Enrichment</Name>
+      <Description>
+        Start from a hostname and discover all relevant company details. Create a custom dataset based on your own existing list of hostnames. Enrich your list with historical data (four years of monthly history). Export the data to a CSV file.
+      </Description>
+    </Product>
+    <Product>
+      <Name>Traffic Index</Name>
+      <Description>
+        Track the growth and decline of websites and services. Rely on a benchmarked estimation relative to the most popular website. Monitor the popularity of hostnames and web services. Explore all relevant discovered subdomains.
+      </Description>
+    </Product>
+  </Products>
+  <CaseStudies>
+    <CaseStudy>
+      <Title>Using structured data to measure the internet economy with Google and Statistics Netherlands</Title>
+      <URL>https://www.dataprovider.com/blog/public-sector/uncovering-networks-of-websites-spreading-misinformation-about-covid-19/</URL>
+    </CaseStudy>
+  </CaseStudies>
+</PublicSector>
