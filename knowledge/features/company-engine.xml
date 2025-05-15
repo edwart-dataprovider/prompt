@@ -1,0 +1,69 @@
+<CompanyEngine>
+  <GeneralBackground>
+    <Purpose>
+      The Company Engine is an internal system developed to collect and structure business information directly from websites, reducing reliance on external sources like yellow pages.
+    </Purpose>
+    <Evolution>
+      Previously, company data was complemented with third-party sources. With the Company Engine, this information is now extracted directly, ensuring fresher and more complete data.
+    </Evolution>
+    <Reports>
+      <QualityAssessmentsLink>https://gitlab.com/dataprovider/data-analytics/data-quality/field-quality/-/tree/master/reports/company-engine?ref_type=heads</QualityAssessmentsLink>
+      <LatestReportLink>https://gitlab.com/dataprovider/data-analytics/data-quality/field-quality/-/blob/master/reports/company-engine/2023_company_engine.md?ref_type=heads</LatestReportLink>
+    </Reports>
+  </GeneralBackground>
+
+  <Description>
+    <WorkflowImage>https://prod-files-secure.s3.us-west-2.amazonaws.com/bd75dd8a-8b1e-44ee-935c-851566a0ae23/ce1d6488-71e9-4126-80b3-b3e6f0ba7166/Screenshot_2023-11-06_at_14.27.05.png</WorkflowImage>
+    <KeyImprovements>
+      <Improvement>179% increase in identifiable companies</Improvement>
+      <Improvement>More up-to-date data</Improvement>
+      <Improvement>New field: Headquarters</Improvement>
+      <Improvement>Improved company confidence code</Improvement>
+    </KeyImprovements>
+    <ImpactedFields>
+      <Field>Company name</Field>
+      <Field>Company quality</Field>
+      <Field>Legal entity</Field>
+      <Field>Primary address</Field>
+      <Field>Secondary address</Field>
+      <Field>Zip code</Field>
+      <Field>City</Field>
+      <Field>Region</Field>
+      <Field>Headquarters</Field>
+    </ImpactedFields>
+    <ClientImpact>
+      Fields may show new totals, value changes, or shifts in data quality. Performance may vary by country (e.g., AU performs well).
+    </ClientImpact>
+  </Description>
+
+  <Access>
+    <FeedsFields>
+      <Field>Address</Field>
+      <Field>Addresses</Field>
+      <Field>Zip code</Field>
+      <Field>City</Field>
+      <Field>Phone number</Field>
+      <Field>Phone number confidence code</Field>
+      <Field>Secondary phone numbers</Field>
+      <Field>Email address</Field>
+      <Field>Secondary email addresses</Field>
+      <Field>Company name</Field>
+      <Field>Company confidence code</Field>
+      <Field>Legal entity</Field>
+    </FeedsFields>
+    <Integration>All data is integrated into the Search Engine.</Integration>
+  </Access>
+
+  <Industries>
+    <Industry name="National Statistical Offices and Governments">
+      <UseCase>
+        Used by agencies in the Netherlands, Germany, Mexico, Colombia, Brazil, and Chile to match national business registries with online presence.
+      </UseCase>
+    </Industry>
+    <Industry name="Business Information">
+      <UseCase>
+        Used by firms for credit risk assessment based on web-based business data, which often reflects the most current and connected business ecosystem.
+      </UseCase>
+    </Industry>
+  </Industries>
+</CompanyEngine>

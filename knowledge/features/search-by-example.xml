@@ -1,0 +1,42 @@
+<SearchByExample>
+  <Description>
+    Search by Example, labeled as "Similar" under FUNCTIONS in the Search Engine, allows users to find websites with content similar to a given example site.
+    By inputting a domain, the system retrieves other websites that match its content profile, enabling discovery of similar businesses, services, or products.
+    Results can be refined using standard filters such as location, company size, or technology stack.
+  </Description>
+
+  <Access>
+    <Method>
+      Select "Similar" under "FUNCTIONS" in the Search Engine dropdown menu.
+      Input one or more domains, and optionally refine with additional filters (e.g., country, heartbeat).
+    </Method>
+  </Access>
+
+  <Industries>
+    <Industry name="Consulting & Market Research">
+      <UseCase>
+        Competitive landscape analysis by using a known player’s website to surface similar businesses in a niche market.
+      </UseCase>
+    </Industry>
+    <Industry name="Digital Payments & Financial Services">
+      <UseCase>
+        Identify agencies or partners in specific regions by starting from a known partner's website and filtering by tech stack or geography.
+      </UseCase>
+    </Industry>
+    <Industry name="Sales & Lead Generation">
+      <UseCase>
+        Build lead lists based on high-value customer profiles, especially useful in non-English markets where keyword search fails.
+      </UseCase>
+    </Industry>
+  </Industries>
+
+  <TechnicalBackground>
+    <CoreMethod>
+      The feature uses a vector-based similarity model to transform website content into high-dimensional vectors capturing semantic meaning.
+    </CoreMethod>
+    <Comparison>
+      These vectors are matched against Dataprovider’s full index to identify semantically similar websites regardless of language.
+    </Comparison>
+    <Contact>Consult Engineering for implementation details.</Contact>
+  </TechnicalBackground>
+</SearchByExample>

@@ -1,0 +1,35 @@
+<Recipes>
+  <Description>
+    Recipes are pre-configured datasets designed to help users quickly and accurately access relevant web data without needing to build filters or queries manually.
+    Most Recipes are centered around specific technologies (e.g., CMS, analytics tools, payment providers, hosting services), while others target issues like outdated server software.
+    Recipes are especially useful for novice users who may not know which filters to apply to construct meaningful datasets.
+  </Description>
+
+  <UseCases>
+    <Benefit>Explore websites using a particular technology instantly</Benefit>
+    <Benefit>Track adoption and usage trends over time</Benefit>
+    <Benefit>Compare technology usage across countries, industries, or traffic tiers</Benefit>
+    <Benefit>Skip complex query building by selecting a ready-made Recipe</Benefit>
+  </UseCases>
+
+  <Access>
+    <Method>
+      Recipes are located in a dedicated section of the Dataprovider console.
+      Users can search for a company or technology within this section.
+    </Method>
+    <Notes>
+      <Note>There are currently more than 500 Recipes, with new ones added regularly.</Note>
+      <Note>Categories may not always be precise; verify filters upon opening a Recipe.</Note>
+      <Note>Contact Edine or Mathijs for details or to suggest new Recipes.</Note>
+    </Notes>
+  </Access>
+
+  <Industries>
+    <Industry name="Asset Management">
+      <UseCase>
+        Investment firms use Recipes to monitor the web presence and tech stack adoption of publicly traded companies.
+        A rising trend in the use of specific software may correlate with the success or growth of its provider, helping guide investment decisions.
+      </UseCase>
+    </Industry>
+  </Industries>
+</Recipes>

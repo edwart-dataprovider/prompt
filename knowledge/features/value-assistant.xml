@@ -1,0 +1,25 @@
+<ValueAssistant>
+  <Description>
+    The Value Assistant helps users identify exactly where in the Search Engine relevant data for a specific keyword, technology, or company can be found.
+    It solves the problem of navigating over 200 fields and filters by allowing users to enter a term and instantly see matching records and relevant fields.
+    From there, users can build custom datasets based on their needs.
+  </Description>
+
+  <Access>
+    <Method>
+      The Value Assistant is available in its own dedicated section within the Dataprovider console.
+    </Method>
+  </Access>
+
+  <Usage>
+    <Example>
+      A user enters the name of a technology and is shown which field(s) in the Search Engine contain relevant data. They can then add those fields to a dataset.
+    </Example>
+  </Usage>
+
+  <Industries>
+    <GeneralApplicability>
+      The Value Assistant benefits nearly all users who want to explore Dataprovider’s dataset more efficiently and skillfully.
+    </GeneralApplicability>
+  </Industries>
+</ValueAssistant>

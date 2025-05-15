@@ -1,0 +1,29 @@
+<Enrichment>
+  <Description>
+    The Enrichment feature enables clients to supplement their existing datasets with structured data from the Search Engine.
+    It is designed to streamline the process of linking business registry numbers, email addresses, phone numbers, or domain names to website data and associated fields.
+    Clients can quickly enhance their input lists with relevant data without manually navigating through the Search Engine.
+  </Description>
+
+  <UseCases>
+    <Example>
+      A client uploads a list of business registry numbers or domains and retrieves enriched information such as corresponding websites or specific field values.
+    </Example>
+    <RealWorldApplication>
+      Enriching the Dutch public register of visa sponsors with detailed company information.
+      <Link>https://www.dataprovider.com/blog/tech/visa-sponsorship/</Link>
+    </RealWorldApplication>
+  </UseCases>
+
+  <RelationToSearchEngine>
+    <Reference>https://www.notion.so/Search-Engine-da45e675beeb4a4d9ac22c35da92b296?pvs=21</Reference>
+    <Note>
+      Unlike KYC, Enrichment does not involve a separate crawl. Only data already present in the Search Engine is used.
+    </Note>
+  </RelationToSearchEngine>
+
+  <Access>
+    <Platform>Dataprovider Console</Platform>
+    <Method>Users are guided through uploading their dataset and selecting fields to enrich.</Method>
+  </Access>
+</Enrichment>

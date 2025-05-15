@@ -1,0 +1,29 @@
+<Ownership>
+  <Description>
+    The Ownership feature helps identify domains that likely belong to the same entity by analyzing and comparing various data fields.
+    It assesses similarity across matched fields to uncover connections between domains, thereby enabling users to detect business networks.
+    As of early 2025, the feature has been updated and is now accessible under the name "Same owner".
+  </Description>
+
+  <Access>
+    <ViaSearchEngine>
+      Access the feature by clicking the three dots next to a hostname in the Search Engine.
+      Then select "Details" to explore matched fields and similarity scores.
+    </ViaSearchEngine>
+    <ViaFunction>
+      Select "Same owner" under "FUNCTIONS" in the "Select a field" dropdown of the Search Engine to enter a domain and retrieve likely associated hostnames.
+    </ViaFunction>
+    <Features>
+      <Item>Refine results with filters like country, registrar, CMS, etc.</Item>
+      <Item>List is limited to 100 results in the UI; full list requires API access.</Item>
+      <Item>Match quality is indicated by colored letters A, B, and C based on field similarity.</Item>
+    </Features>
+  </Access>
+
+  <MatchingLogic>
+    <Reference>https://www.notion.so/Ownership-v3-probabilities-1b35a4d2455280d69c8ae21bf862f1fa?pvs=21</Reference>
+    <Note>
+      Ownership version 3 uses probabilistic scoring across multiple fields to determine domain grouping.
+    </Note>
+  </MatchingLogic>
+</Ownership>

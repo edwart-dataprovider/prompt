@@ -1,0 +1,50 @@
+<Dashboards>
+  <GeneralBackground>
+    <Note>
+      Dashboards are primarily based on Search Engine data. Future versions may integrate Know Your Customer and Traffic Index.
+    </Note>
+    <ProductOwners>
+      <Owner>Christian Branbergen</Owner>
+      <Owner>Marc Noet</Owner>
+    </ProductOwners>
+    <ImplementationTeams>
+      <Team>Integrations</Team>
+      <Team>Design</Team>
+    </ImplementationTeams>
+  </GeneralBackground>
+
+  <Description>
+    Dashboards provide a visual, consolidated overview of key metrics tailored to specific industries.
+    They simplify access to Search Engine data by removing the need for filter or query knowledge, presenting summary data such as counts or top values per field in a single-page interface.
+    Some metrics can be explored in more detail through drill-down options across up to 9 pages.
+    Data is refreshed monthly and is often limited to the past month, with limited trend data available.
+    Dashboards do not expose full datasets or downloadable domain lists — only visual summaries.
+  </Description>
+
+  <Purpose>
+    <Advantage>Consolidate relevant web metrics into easy-to-read visuals</Advantage>
+    <Advantage>Low-cost, low-risk entry to Dataprovider's capabilities</Advantage>
+    <Advantage>Accessible to users without deep data knowledge</Advantage>
+    <Advantage>Drill-through features for deeper insight on specific metrics</Advantage>
+    <Advantage>Can potentially integrate data from Reverse DNS, SSL Catalog, or KYC</Advantage>
+  </Purpose>
+
+  <Access>
+    <Method>
+      Dashboards are accessible via the Dataprovider console. Visual data can be downloaded as images, but not underlying datasets.
+    </Method>
+  </Access>
+
+  <Industries>
+    <Industry name="Domain Industry">
+      <UseCase>
+        Understand usage of a specific top-level domain (e.g. .amsterdam), its registrars, language usage, hosting distribution, security risk, and potential growth opportunities.
+      </UseCase>
+    </Industry>
+    <Industry name="Registries">
+      <UseCase>
+        Monitor domain lifecycle and activity to increase retention, improve localization, and identify inactive registrations by hoster or type.
+      </UseCase>
+    </Industry>
+  </Industries>
+</Dashboards>
