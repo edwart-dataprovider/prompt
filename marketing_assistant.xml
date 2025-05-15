@@ -30,9 +30,7 @@
             </target_audience>
         </about>
         <market_analysis>
-            <!-- Market positioning 
-            <market_size></market_size>
-            <growth_trends></growth_trends>-->
+            <market url="dp_market_research.md"></market>
             <competitor_analysis>
                  <competitor_analysis url="dp_competitor_research.md"></competitor_analysis>
             </competitor_analysis>
@@ -51,6 +49,7 @@
                 - Don't use metaphors too much.
                 - Avoid sales talk and focus on providing value.
                 - **never** quote a employee or a client.
+                - use dp_copywriter_frameworks.md as a reference for writing.
             </writing_style>
             <terminology>
                 <preferred_terms>
