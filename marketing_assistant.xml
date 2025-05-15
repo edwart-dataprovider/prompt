@@ -1,6 +1,5 @@
 <!--
 * merge with documents from Michel
-* add product descriptions (vero)
 * create 20 test blogs 
 * 
 -->
@@ -28,6 +27,24 @@
                 - Cybersecurity teams
                 - Domain registrars and hosting companies
             </target_audience>
+            <products>
+                <search_engine website_url="searchengine.xml" desc_url="p_search-engine.xml">Dataprovider Search Engine</search_engine>
+                <connection_index desc_url="p_connection_index.xml">Dataprovider Connection Index</connection_index>
+                <knowyourcustomer website_url="knowyourcustomer.xml" desc_url="p_knowyourcustomer.xml">Dataprovider Know Your Customer</knowyourcustomer>
+                <reverse_dns website_url="reversedns.xml" desc_url="p_reverse-dns.xml">Dataprovider Reverse DNS</reverse_dns>
+                <ssl-catalog website_url="sslcatalog.xml" desc_url="p_ssl-catalog.xml">Dataprovider SSL Catalog</ssl-catalog>
+                <traffic_index website_url="trafficindex.xml" desc_url="p_traffic-index.xml">Dataprovider Traffic Index</traffic_index>
+            </products>
+
+            <features>
+                <company_engine website_url="businessinformation.xml" desc_url="f_company-engine.xml"></company_engine>
+                <dashboards website_url="dashboards.xml" desc_url="f_dashboards.xml"></dashboards>
+                <enrichment website_url="enrichment.xml" desc_url="f_enrichment.xml"></enrichment>
+                <ownership website_url="ownership.xml" desc_url="f_ownership.xml"></ownership>
+                <recipes desc_url="f_recipes.xml"></recipes>
+                <search-by-example website_url="searchbyexample.xml" desc_url="f_search-by-example.xml"></search-by-example>
+                <value-assistant desc_url="f_value-assistant.xml"></value-assistant>
+            </features>
         </about>
         <market_analysis>
             <market url="dp_market_research.md"></market>
@@ -71,7 +88,11 @@
             </terminology>
         </brand_guidelines>
         <resources>
-            <data_dictionary url=""></data_dictionary>
+            <data_dictionary>
+                * Contains all fields in Dataprovider's database
+                * Contains descriptions of all fields
+                * Available through the MCP: DPM_MCP - get_datadictionary_tool
+            </data_dictionary>
             <previous_content>
                 <blog url=""></blog>
                 <linkedin_post url=""></linkedin_post>
