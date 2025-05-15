@@ -1,0 +1,33 @@
+<ConnectionIndex>
+  <Description>
+    The Connection Index is a proprietary, standardized score reflecting estimated traffic to a specific hostname. 
+    It is calculated by dividing the daily raw DNS requests to that hostname by the total DNS requests to www.google.com over the previous 30 days.
+    This normalization enables the analysis of traffic trends independent of fluctuations in overall traffic volume.
+  </Description>
+
+  <Access>
+    <Method>
+      Access the Connection Index via the "Traffic" section in the Dataprovider console.
+      Enter a hostname and select "Connection Index" to view the data.
+    </Method>
+  </Access>
+
+  <Industries>
+    <Industry>Asset Management</Industry>
+    <UseCase>
+      <Client>A global investment firm evaluating payment service providers (PSPs)</Client>
+      <Need>Understand real-world usage through DNS request traffic, not just web analytics</Need>
+      <WhyItMatters>
+        Connection Index captures traffic from systems and devices such as checkout terminals. 
+        It enables direct comparisons of API and machine-level interaction volume across PSPs.
+      </WhyItMatters>
+    </UseCase>
+  </Industries>
+
+  <TechnicalBackground>
+    <Contact>Bastiaan, Tim</Contact>
+    <Note>
+      For current computation details or algorithmic changes, please contact the technical leads.
+    </Note>
+  </TechnicalBackground>
+</ConnectionIndex>

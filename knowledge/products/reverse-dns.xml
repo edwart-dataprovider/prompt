@@ -1,0 +1,91 @@
+<ReverseDNS>
+  <GeneralBackground>
+    <DNSInfoLinks>
+      <Link>https://www.dataprovider.com/insights/tech/internet-basics-7-a-beginners-guide-to-ip-addresses/</Link>
+      <Link>https://www.dataprovider.com/insights/domains/internet-basics-series-5-demystifying-dns/</Link>
+    </DNSInfoLinks>
+    <EducationalLevels>
+      <Child>Reverse DNS is like finding a name when you have a phone number — but for websites and IP addresses.</Child>
+      <Teenager>It helps find a domain name using its IP address, doing the opposite of normal DNS lookup.</Teenager>
+      <Undergrad>It queries the special reverse DNS zones (in-addr.arpa / ip6.arpa) to fetch the PTR record for a given IP.</Undergrad>
+      <GradStudent>Uses reverse DNS zones to retrieve domain names from IPs for network diagnostics and security tasks.</GradStudent>
+      <Professor>Reverse DNS maps IPs to hostnames via PTR records in the in-addr.arpa/ip6.arpa zones. It's essential for spam filtering, diagnostics, and IP reputation.</Professor>
+    </EducationalLevels>
+  </GeneralBackground>
+
+  <ProductDescription>
+    <Summary>
+      The Reverse DNS product starts with an IP and returns associated domain information using reverse lookup. It complements the DNS lookup approach of mapping names to IPs.
+    </Summary>
+    <Methodology>
+      <Note>IPv4 addresses are iterated monthly; resulting hostnames and metadata are recorded.</Note>
+      <Coverage>As of Aug 2023, the database includes 1,191,263,499 records.</Coverage>
+    </Methodology>
+    <UseCases>
+      <UseCase>Identify technologies associated with IPs</UseCase>
+      <UseCase>Track hardware like routers and servers per IP</UseCase>
+    </UseCases>
+  </ProductDescription>
+
+  <Access>
+    <Platform>Dataprovider Console</Platform>
+    <Tabs>
+      <Tab>Statistics</Tab>
+    </Tabs>
+  </Access>
+
+  <Industries>
+    <Industry name="Funds">
+      <Application>Track technology usage across IPs (e.g., AWS) over time</Application>
+    </Industry>
+    <Industry name="Security">
+      <Application>Monitor all devices or clients connected to an IP address</Application>
+    </Industry>
+  </Industries>
+
+  <TechnicalBackground>
+    <ProjectOwner>Jesse</ProjectOwner>
+    <Version>New version released July 2023</Version>
+    <Process>
+      <Step>Iterate over all IPv4 addresses</Step>
+      <Step>Query Google DNS (8.8.8.8) using dig -x equivalent</Step>
+      <Step>Parse DNS response into Question, Name, Type, Target</Step>
+      <Step>If type is CNAME, DNAME, or PTR, extract structured fields</Step>
+      <Step>Create Elasticsearch records per line of the answer</Step>
+      <Note>Trailing dots are preserved for rawness; parsed target fields are cleaned</Note>
+    </Process>
+    <CNAMEInfo>Classless delegation info: https://kb.isc.org/docs/aa-01589</CNAMEInfo>
+  </TechnicalBackground>
+
+  <DataOverview>
+    <Fields>13</Fields>
+    <Categories>
+      <Category>DNS</Category>
+      <Category>Parsed Target</Category>
+      <Category>Administration</Category>
+    </Categories>
+    <DataDictionary>https://console.dataprovider.com/app/data-dictionary</DataDictionary>
+  </DataOverview>
+
+  <Schema>
+    <DNS>
+      <Field name="Question">Hostname format using in-addr.arpa (e.g., 28.214.34.62.in-addr.arpa.)</Field>
+      <Field name="Name">Returned by DNS server; equal to Question</Field>
+      <Field name="Type">Type of DNS record (PTR, CNAME, DNAME)</Field>
+      <Field name="Target">Hostname mapped from the IP</Field>
+    </DNS>
+    <ParsedTarget>
+      <Field name="Target hostname">Extracted full hostname (e.g., 62-34-214-28.abo.bbox.fr)</Field>
+      <Field name="Target subdomain">Subdomain component</Field>
+      <Field name="Target domain">Domain component</Field>
+      <Field name="Target TLD">Top-level domain (e.g., fr)</Field>
+      <Field name="Target private suffix">Private suffix (listed in public_suffix_list.dat)</Field>
+      <Field name="Target public suffix">Public suffix (listed in public_suffix_list.dat)</Field>
+    </ParsedTarget>
+    <Administration>
+      <Field name="Hostname">Target hostname</Field>
+      <Field name="IP address">Queried IP (e.g., 62.34.214.28)</Field>
+      <Field name="Date last analyzed">Date of last DNS query</Field>
+    </Administration>
+  </Schema>
+</ReverseDNS>

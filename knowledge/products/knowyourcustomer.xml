@@ -1,0 +1,29 @@
+<KYC>
+  <Definition>
+    Know Your Customer (KYC) is a private crawling service that allows clients to upload a list of hostnames or domains for independent data collection.
+  </Definition>
+  <RelationToSearchEngine>
+    <Comparison>
+      <PublicCrawl>Search Engine: information is publicly crawled and shared with all clients.</PublicCrawl>
+      <PrivateCrawl>KYC: information is privately crawled based on uploaded lists and shared only with the uploading client.</PrivateCrawl>
+    </Comparison>
+    <Separation>
+      KYC data is not added to the Search Engine. This is crucial for sensitive or non-public zone files (e.g., registry-specific lists).
+    </Separation>
+    <SearchEngineReference>https://www.notion.so/Search-Engine-da45e675beeb4a4d9ac22c35da92b296?pvs=21</SearchEngineReference>
+  </RelationToSearchEngine>
+
+  <UseCase>
+    <Example>A domain registry uploads a private zone file to understand the status of their domains. This file is processed independently and remains private.</Example>
+  </UseCase>
+
+  <DifferenceFromEnrichment>
+    <EnrichmentDefinition>
+      Enrichment supplements uploaded files using data already in the Search Engine. No new crawling is performed.
+    </EnrichmentDefinition>
+    <KeyDifferences>
+      <Difference>If a hostname is not in the Search Engine, Enrichment returns no data. KYC will crawl and return data even for previously unknown hostnames.</Difference>
+      <Difference>KYC conducts a new, independent crawl. Enrichment does not.</Difference>
+    </KeyDifferences>
+  </DifferenceFromEnrichment>
+</KYC>

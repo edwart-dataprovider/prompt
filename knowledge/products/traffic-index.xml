@@ -1,0 +1,61 @@
+<TrafficIndex>
+  <Description>
+    Traffic Index is a proprietary metric developed by Dataprovider.com to estimate global website traffic using anonymous and aggregated recursive DNS data.
+    Unlike traditional traffic tools using trackers or plugins, this method offers a scalable and privacy-safe alternative to assess real-world website usage.
+    It provides a normalized signal of relative popularity and reach useful for benchmarking, lead qualification, trend analysis, and competitive research.
+  </Description>
+
+  <Access>
+    <Method>
+      Access via the "Traffic" section in the Dataprovider console. Enter a hostname and select "Traffic Index" to view data.
+    </Method>
+  </Access>
+
+  <Industries>
+    <Industry>Asset Management</Industry>
+    <UseCase>
+      <Client>A global investment firm evaluating payment service providers (PSPs)</Client>
+      <Need>Measure real-world usage beyond online presence</Need>
+      <Reason>
+        DNS-based traffic data captures traffic from connected devices and checkout terminals, enabling comparison of API traffic volume across PSPs.
+      </Reason>
+    </UseCase>
+  </Industries>
+
+  <TechnicalBackground>
+    <Contact>Bastiaan</Contact>
+    <DataSource>
+      <Provider>Comodo</Provider>
+      <Format>
+        <Field name="Timestamp">Date of the DNS request</Field>
+        <Field name="Unique ID">Hashed IP + country code; used to detect bots</Field>
+        <Field name="Hostname">Requested domain (e.g., play.google.com)</Field>
+        <Field name="Frequency">Number of queries per hostname per ID</Field>
+        <Field name="Country code">Used for normalization</Field>
+      </Format>
+    </DataSource>
+
+    <BotDetection>
+      <Method>
+        Detect patterns like uniform access across many hostnames and high-volume queries to flag bots.
+      </Method>
+    </BotDetection>
+
+    <CountryBalancing>
+      <Source>UN population and internet penetration data</Source>
+      <Purpose>Normalize differences in DNS request volume by country</Purpose>
+    </CountryBalancing>
+
+    <UserDeduplication>
+      <Approach>
+        Measure unique users (via Unique IDs) to avoid bias from apps that generate many DNS requests (e.g., Slack vs. Teams).
+      </Approach>
+    </UserDeduplication>
+
+    <Normalization>
+      <Approach>
+        Normalize traffic data relative to monthly traffic to www.google.com to account for sample size changes.
+      </Approach>
+    </Normalization>
+  </TechnicalBackground>
+</TrafficIndex>

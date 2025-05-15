@@ -1,0 +1,101 @@
+<SSLCatalog>
+  <GeneralBackground>
+    <Overview>
+      SSL certificates encrypt communication between a server and a client using public key infrastructure (PKI). Certificate Transparency (CT) logs are public records of SSL issuance used to detect misuse.
+    </Overview>
+    <EducationalLevels>
+      <Child>
+        SSL is like a secret code to send safe messages. CT logs are lists showing who got the code.
+      </Child>
+      <Teenager>
+        SSL scrambles messages for safety; CT logs let you verify if someone is pretending to be another.
+      </Teenager>
+      <Undergrad>
+        SSL uses PKI for authentication. CT logs record all certificates to improve transparency.
+      </Undergrad>
+      <GradStudent>
+        SSL ensures secure communication using asymmetric cryptography. CT logs provide publicly auditable certificate issuance records.
+      </GradStudent>
+      <Professor>
+        SSL certificates (X.509) ensure authentication via asymmetric encryption. CT logs, structured as Merkle trees, offer immutable transparency for PKI infrastructure.
+      </Professor>
+    </EducationalLevels>
+    <ReferenceLinks>
+      <SSLInfo>https://www.dataprovider.com/insights/security/internet-basics-series-2-ssl-certificates-explained/</SSLInfo>
+      <CTInfo>https://certificate.transparency.dev/howctworks/</CTInfo>
+    </ReferenceLinks>
+  </GeneralBackground>
+
+  <ProductDescription>
+    <Summary>
+      The SSL Catalog gathers and structures data from CT logs, resulting in a large database of SSL certificates issued by trusted Certificate Authorities.
+    </Summary>
+    <Stats>
+      <TotalRecords>9,242,954,016 (as of 2023-06-06)</TotalRecords>
+      <DataSince>2019 (dependent on CA)</DataSince>
+    </Stats>
+    <DataCollection>
+      <Method>Unlike other Dataprovider products, SSL data is not retrieved by crawling but appears in CT logs when a certificate is issued.</Method>
+      <Frequency>Dependent on certificate validity (e.g., 3 months or 1 year)</Frequency>
+    </DataCollection>
+    <Categories>
+      <Category>CT Log</Category>
+      <Category>SSL Certificate</Category>
+      <Category>Subject</Category>
+      <Category>SSL Issuer</Category>
+      <Category>Intermediate Certificate</Category>
+      <Category>Root Certificate</Category>
+      <Category>Other</Category>
+    </Categories>
+  </ProductDescription>
+
+  <Access>
+    <Platform>Dataprovider Console</Platform>
+    <Tabs>
+      <Tab>Statistics</Tab>
+    </Tabs>
+  </Access>
+
+  <Industries>
+    <Industry>SSL Issuers</Industry>
+    <Industry>Brand Protection</Industry>
+    <Industry>Security</Industry>
+    <Industry>Funds</Industry>
+  </Industries>
+
+  <UseCases>
+    <SSLIssuers>
+      <Case>Track EV and OV certificate issuance for competitive analysis</Case>
+      <Case>Identify customers switching CAs for lead generation</Case>
+    </SSLIssuers>
+    <BrandProtection>
+      <Case>Ensure all certificates for a brand are issued by the same CA</Case>
+      <Example>Validate SSL issuers for domains like netflix.com</Example>
+    </BrandProtection>
+    <Security>
+      <Case>Monitor certificate expiration/renewal</Case>
+      <Case>Audit issuer consistency across hostnames</Case>
+    </Security>
+    <Funds>
+      <Case>Analyze infrastructure exposure via SSL metadata</Case>
+      <Example>Determine cloud hosting platform share among MongoDB certificates</Example>
+    </Funds>
+  </UseCases>
+
+  <TechnicalBackground>
+    <ProductOwner>Anne Jan Storteboom</ProductOwner>
+    <Notes>
+      Data is fetched directly from CT logs and parsed into structured formats including certificate metadata, hostnames, and issuer info.
+    </Notes>
+    <RawDataReference>
+      <Screenshot>SSL_Catalog_RawData_Example.png</Screenshot>
+    </RawDataReference>
+  </TechnicalBackground>
+
+  <DataOverview>
+    <Fields>40</Fields>
+    <Categories>6 main + Other (hostname)</Categories>
+    <DataDictionary>https://console.dataprovider.com/app/data-dictionary</DataDictionary>
+    <InsightsReport>https://gitlab.com/dataprovider/data-analytics/data-quality/field-quality/-/blob/master/reports/ssl/2022-03/data_insights_ssl.md</InsightsReport>
+  </DataOverview>
+</SSLCatalog>

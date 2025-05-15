@@ -1,0 +1,109 @@
+<SearchEngine>
+  <ProductDescription>
+    <Summary>
+      The Search Engine forms the core product of Dataprovider.com. It structures the vast amount of data collected from the web into a unified database.
+    </Summary>
+    <MonthlyCrawling>
+      <Methods>
+        <Method>Following links</Method>
+        <Method>Accessing publicly available zone files (.com, .org, gTLDs)</Method>
+        <Method>Extracting hostnames from SSL certificates</Method>
+      </Methods>
+      <Persistence>
+        Once a hostname is in the database, it remains there. This means the total number of hostnames increases over time, but not necessarily the number of "Available" hostnames.
+      </Persistence>
+    </MonthlyCrawling>
+    <DataStructuring>
+      <Levels>
+        <Level>Basic fields (e.g., TLD, domain, CMS)</Level>
+        <Level>Spider-level classifiers (e.g., country)</Level>
+        <Level>Advanced classifiers by Data Science team (e.g., company name, economic scores)</Level>
+      </Levels>
+    </DataStructuring>
+  </ProductDescription>
+
+  <WebCrawling>
+    <Definition>
+      Web crawling is the process of using automated agents to systematically explore and index the World Wide Web by following hyperlinks.
+    </Definition>
+    <Comparison>
+      Web crawling differs from scraping in scope and application. It supports tasks such as search engines, content analysis, and data integration.
+    </Comparison>
+    <Techniques>
+      <Technique>Distributed crawling</Technique>
+      <Technique>Politeness policies</Technique>
+      <Technique>Duplicate detection</Technique>
+      <Technique>Dynamic content handling</Technique>
+    </Techniques>
+    <MoreInfo>
+      <Link>https://www.dataprovider.com/insights/tech/internet-basics-series-4-the-difference-between-crawling/</Link>
+    </MoreInfo>
+  </WebCrawling>
+
+  <Access>
+    <Platform>Dataprovider Console</Platform>
+    <Structure>
+      <Row>Hostname</Row>
+      <Column>Field</Column>
+    </Structure>
+    <Tabs>
+      <Tab>Statistics</Tab>
+      <Tab>Map</Tab>
+      <Tab>Trends</Tab>
+      <Tab>Churn</Tab>
+    </Tabs>
+  </Access>
+
+  <IndustriesAndCustomers>
+    <UseCasesLink>https://www.notion.so/Use-Cases-c6d1615ed2af44bbb484d29fc7a47e5f?pvs=21</UseCasesLink>
+    <WebsiteLink>https://www.dataprovider.com/cases/</WebsiteLink>
+    <Applications>
+      <Application>Track technology use (Investment Funds)</Application>
+      <Application>Detect fraudulent websites (Brand Protection)</Application>
+      <Application>Monitor domain usage (Registries & Registrars)</Application>
+      <Application>Track business info (Business Information)</Application>
+      <Application>Observe online presence (Governments)</Application>
+    </Applications>
+  </IndustriesAndCustomers>
+
+  <TechnicalBackground>
+    <FactoryDefinition>
+      All operations (software and hardware) supporting crawling, processing, and storage are part of "the factory".
+    </FactoryDefinition>
+    <FactoryLink>https://www.notion.so/The-Factory-664def1e8d1b434ba99c24237087c737?pvs=21</FactoryLink>
+    <TeamOperationsLink>https://www.notion.so/Team-Engineering-8bc60dc34eb44ecd8209720183a058f6?pvs=21</TeamOperationsLink>
+  </TechnicalBackground>
+
+  <DataOverview>
+    <TotalHostnames>745M (as of Aug 2023)</TotalHostnames>
+    <Categories count="20">
+      <Category>Domain</Category>
+      <Category>Status</Category>
+      <Category>Contact</Category>
+      <Category>Business</Category>
+      <Category>DUNS</Category>
+      <Category>eCommerce</Category>
+      <Category>Content</Category>
+      <Category>Engagement</Category>
+      <Category>Marketing</Category>
+      <Category>Social</Category>
+      <Category>Technical</Category>
+      <Category>Hosting</Category>
+      <Category>DNS</Category>
+      <Category>Server</Category>
+      <Category>SSL</Category>
+      <Category>Security</Category>
+      <Category>Whois</Category>
+      <Category>Administration</Category>
+      <Category>Beta</Category>
+      <Category>Development</Category>
+    </Categories>
+    <Fields count="190">
+      <Note>Excludes Beta (28 fields) and Development (24 fields)</Note>
+    </Fields>
+  </DataOverview>
+
+  <DataDictionary>
+    <Link>https://console.dataprovider.com/app/data-dictionary</Link>
+  </DataDictionary>
+</SearchEngine>
